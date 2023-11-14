@@ -4,7 +4,7 @@
 
 # <span style="color:red">Hello, my name is Dival!</span>
 
-I'm a **20-year-old** Computer Science student at UFSCar.
+I'm a **21-year-old** Computer Science student at UFSCar.
 
 I currently mostly work with **C** and **Python**.
 
