@@ -1,23 +1,28 @@
+# Welcome to My Profile! 👋
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=itsdibas" alt="Profile Views">
 </p>
 
-# <span style="color:red">Hello, my name is Dival! 👋</span>
+## About Me
 
-I'm a **21-year-old** Computer Science student at UFSCar.
-
-I currently mostly work with **C** and **Python**.
-
-Working to improve my skills and practice what I love.
+Hey there! I'm Dival, a passionate Computer Science student at UFSCar, always eager to learn and grow in the field. With a strong foundation in languages like C and Python, I'm constantly honing my skills and exploring new technologies.
 
 ## Skills
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+- **Languages:** 
+  - Python
+  - C
+  - Java
+
+- **Tools & Technologies:** 
+  - Visual Studio Code
+  - MySQL
+  - LaTeX
+
+- **Libraries & Frameworks:** 
+  - NumPy
+  - Pandas
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dival-siqueira/)!
 
