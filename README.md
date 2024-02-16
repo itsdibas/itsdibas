@@ -1,4 +1,4 @@
-# Welcome to My Profile! 👋
+# Hello, I'm Dival! 👋
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=itsdibas" alt="Profile Views">
@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey there! I'm Dival, a passionate Computer Science student at UFSCar, always eager to learn and grow in the field. With a strong foundation in languages like C and Python, I'm constantly honing my skills and exploring new technologies.
+Hey there! I'm Dival, a 20 yo passionate Computer Science student at UFSCar, always eager to learn and grow in the field. With a strong foundation in languages like C and Python, I'm constantly honing my skills and exploring new technologies.
 
 ## Skills
 
