@@ -18,7 +18,6 @@ Hey there! I'm Dival, a 20 yo passionate Computer Science student at UFSCar, alw
 - **Tools & Technologies:** 
   - Visual Studio Code
   - MySQL
-  - LaTeX
 
 - **Libraries & Frameworks:** 
   - NumPy
